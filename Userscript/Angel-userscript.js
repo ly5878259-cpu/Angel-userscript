@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         Angel Bypass
 // @namespace    Discord https://discord.gg/Td27T6uR9b | bot https://angel-invite.vercel.app/
 // @version      1.0.0
