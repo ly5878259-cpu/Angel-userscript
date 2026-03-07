@@ -1,25 +1,54 @@
 // ==UserScript==
-// @name         Angel Bypass
-// @namespace    Discord https://discord.gg/Td27T6uR9b | bot https://angel-invite.vercel.app/
-// @version      1.0.0
-// @description  Angel Bypass free version
-// @author       Angel.l0l
-// @icon         https://cdn.discordapp.com/attachments/1475714943033802906/1476164609319768094/5C7558E7-2E1A-4F6B-9F19-464672F9D6D7.png?ex=69a60fac&is=69a4be2c&hm=631d5fb8a00ea2485a6ebf9fa38c8b4ab3a47098a8b823b93c7a4ed6b0701050&
+// @name         Angel Bypasser
+// @version      1.0
+// @description  Link bypass userscript
 // @match        *://rekonise.com/*
+// @match        *://*.rekonise.com/*
 // @match        *://linkvertise.com/*
 // @match        *://*.linkvertise.com/*
 // @match        *://paster.so/*
+// @match        *://paster.gg/*
 // @match        *://cutt.ly/*
 // @match        *://bst.gg/*
+// @match        *://*.bst.gg/*
+// @match        *://bst.wtf/*
 // @match        *://bstshrt.com/*
+// @match        *://booo.st/*
+// @match        *://boost.ink/*
+// @match        *://*.boost.ink/*
+// @match        *://work.ink/*
+// @match        *://*.work.ink/*
+// @match        *://mboost.me/*
+// @match        *://linkunlocker.com/*
+// @match        *://link-unlock.com/*
+// @match        *://sub2unlock.com/*
+// @match        *://sub2unlock.net/*
+// @match        *://sub2get.com/*
+// @match        *://sub4unlock.com/*
+// @match        *://subfinal.com/*
+// @match        *://unlocknow.net/*
+// @match        *://socialwolvez.com/*
+// @match        *://social-unlock.com/*
+// @match        *://ytsubme.com/*
+// @match        *://adfoc.us/*
+// @match        *://scwz.me/*
+// @match        *://up-to-down.net/*
+// @match        *://lockr.so/*
+// @match        *://auth.platorelay.com/*
+// @match        *://pastebin.com/*
+// @match        *://paste-drop.com/*
+// @match        *://pastecanyon.com/*
+// @match        *://pastehill.com/*
+// @match        *://pastemode.com/*
+// @match        *://pastes.io/*
+// @match        *://justpaste.it/*
+// @match        *://rentry.org/*
+// @match        *://mediafire.com/*
 // @match        *://bit.do/*
 // @match        *://bit.ly/*
 // @match        *://cl.gy/*
 // @match        *://goo.gl/*
 // @match        *://is.gd/*
-// @match        *://mediafire.com/*
-// @match        *://pastebin.com/*
-// @match        *://pastes.io/*
 // @match        *://rebrand.ly/*
 // @match        *://rkns.link/*
 // @match        *://shorter.me/*
@@ -29,11 +58,11 @@
 // @match        *://tinylink.onl/*
 // @match        *://tinyurl.com/*
 // @match        *://v.gd/*
-// @match        *://work.ink/*
 // @match        *://yorurl.com/*
 // @updateURL    https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @downloadURL  https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @grant        GM_xmlhttpRequest
 // @connect      ace-bypass.com
+// @connect      https://trw.lat.com
 // @require      https://raw.githubusercontent.com/ly5878259-cpu/angel-main/main/Api/main
 // ==/UserScript==
