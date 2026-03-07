@@ -64,5 +64,6 @@
 // @grant        GM_xmlhttpRequest
 // @connect      ace-bypass.com
 // @connect      https://trw.lat.com
+// @connect      https://rip.linkvertise.lol
 // @require      https://raw.githubusercontent.com/ly5878259-cpu/angel-main/main/Api/main
 // ==/UserScript==
