@@ -62,6 +62,15 @@
 // @match        *://tinyurl.com/*
 // @match        *://v.gd/*
 // @match        *://yorurl.com/*
+/ @match         *://loot-link.com/s?*
+// @match        *://loot-links.com/s?*
+// @match        *://lootlink.org/s?*
+// @match        *://lootlinks.co/s?*
+// @match        *://lootdest.info/s?*
+// @match        *://lootdest.org/s?*
+// @match        *://lootdest.com/s?*
+// @match        *://links-loot.com/s?*
+// @match        *://linksloot.net/s?*
 // @updateURL    https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @downloadURL  https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @grant        GM_xmlhttpRequest
