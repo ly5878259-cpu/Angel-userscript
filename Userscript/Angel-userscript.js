@@ -37,7 +37,6 @@
 // @match        *://scwz.me/*
 // @match        *://up-to-down.net/*
 // @match        *://lockr.so/*
-// @match        *://auth.platorelay.com/*
 // @match        *://pastebin.com/*
 // @match        *://paste-drop.com/*
 // @match        *://pastecanyon.com/*
