@@ -32,10 +32,9 @@
 // @match        *://*.tinyurl.com/*
 // @match        *://*.v.gd/*
 // @match        *://*.work.ink/*
-// @grant        none
 // @updateURL    https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @downloadURL  https://raw.githubusercontent.com/ly5878259-cpu/Angel-userscript/main/Userscript/Angel-userscript.js
 // @grant        GM_xmlhttpRequest
 // @connect      ace-bypass.com
-// @require      https://raw.githubusercontent.com/ly5878259-cpu/angel-main/main/Api/main
+// @// @require https://raw.githubusercontent.com/ly5878259-cpu/angel-main/main/Api/main.js
 // ==/UserScript==
